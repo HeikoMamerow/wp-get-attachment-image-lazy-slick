@@ -1,6 +1,6 @@
 # WP-get-attachment-image-lazy-Slick #
 
-WordPress Plugin sets attachment image markup for Slick lazy loading.
+WordPress Plugin sets attachment image markup for [Slick](http://kenwheeler.github.io/slick/) lazy loading.
 
 ## Description
 Slick slider needs a special markup for his lazy loading. This plugin use the origin function *wp_get_attachment_image()* but changed the attributes *src* to *data-lazy* and *srcset* to *data-srcset*.
