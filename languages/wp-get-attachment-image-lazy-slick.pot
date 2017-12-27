@@ -1,0 +1,28 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-12-27 16:05+0000\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "WP-get-attachment-image-lazy-Slick"
+msgstr ""
+
+#. Description of the plugin
+msgid "Set attachment image markup for Slick lazy loading."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/HeikoMamerow/wp-get-attachment-image-lazy-slick"
+msgstr ""
+
+#. Author of the plugin
+msgid "Heiko Mamerow"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://heikomamerow.de"
+msgstr ""
