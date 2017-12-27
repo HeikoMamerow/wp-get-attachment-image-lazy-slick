@@ -9,8 +9,8 @@ Slick slider needs a special markup for his lazy loading. This plugin use the or
 ### How to use?
 
 * Install and activate the plugin.
-* Instead of using wp_get_attachment_image() use wp_get_attachment_image_lazy_slick() in your theme.
-* The parameters are same with like [wp_get_attachment_image()](https://developer.wordpress.org/reference/functions/wp_get_attachment_image/#parameters)
+* Instead of using **wp_get_attachment_image()** use **wp_get_attachment_image_lazy_slick()** in your theme.
+* The parameters are same like [wp_get_attachment_image()](https://developer.wordpress.org/reference/functions/wp_get_attachment_image/#parameters)
 
 ### Will this plugin install Slick?
 No, you need to install Slick separately.
